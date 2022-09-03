@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning to code better. Endless task...
+- 👯 I’m looking to collaborate on WordPress, Shopify ecosystems.
+
 <!--
 **alticreation/alticreation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
