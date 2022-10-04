@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning to code better. Endless task...
+- 🌱 I’m currently coding with Tailwind, WordPress, DaisyUI.
 - 👯 I’m looking to collaborate on WordPress, Shopify ecosystems.
 
 <!--
